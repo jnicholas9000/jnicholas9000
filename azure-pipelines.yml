@@ -14,4 +14,4 @@ steps:
   inputs:
     repository: 'joe619/toolkit'
     command: 'buildAndPush'
-    Dockerfile: '**/Dockerfile'
+    Dockerfile: 'app/Dockerfile'
